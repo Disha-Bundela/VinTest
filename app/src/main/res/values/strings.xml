@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VinTest</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="website">http://newtreat.co.in/</string>
+    <string name="log_in">SIGN IN</string>
+    <string name="option1">Visit Our Website</string>
+    <string name="option2">Get Location</string>
+    <string name="option3">Contact Us.\nSend Email.</string>
+    <string name="option4">Call Us</string>
+    <string name="msg1">Don\'t Have an Account? Sign Up</string>
+</resources>
